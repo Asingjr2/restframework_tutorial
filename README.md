@@ -1,3 +1,3 @@
-* Purpose
+# DJANGO REST FRAMEWORK TUTORIAL
 
-***Project is completed django rest_framework with comments
+Completed tutorial for framework.  Includes lots of comments for review or reference later. 
